@@ -18,7 +18,7 @@ Here is a link to some video documentation I made of my cell phone stand getting
 I did have some issues with heat level, which I brought up to one of my instructors.
 
 
-<a href="https://www.youtube.com/watch?v=FoVW6_42l34"><img width="100%" src="https://img.youtube.com/vi/FoVW6_42l34/0.jpg"></img></a>
+<a href="https://www.youtube.com/watch?v=FoVW6_42l34"></img></a>
 
 ---
 
